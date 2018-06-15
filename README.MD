@@ -1,0 +1,1 @@
+Hackathon project that utilizes REACT and 3 random APIs 
